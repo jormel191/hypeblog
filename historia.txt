@@ -1,6 +1,6 @@
 Hola  mi nombre es jormel
 
-tengo 39 años de edad
+tengo 29 años de edad
 
 y hoy estoy estudiando git
 
