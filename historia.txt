@@ -1,5 +1,7 @@
 Hola  mi nombre es jormel
 
+Hola soy unapersonanueva que esta haciendo pruebas
+
 tengo 29 años de edad
 
 y hoy estoy estudiando git
