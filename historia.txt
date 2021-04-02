@@ -6,6 +6,8 @@ tengo 29 años de edad
 
 master 1
 
+master 2
+
 y hoy estoy estudiando git
 
 Mañana meenfocaré en la vida laboral
