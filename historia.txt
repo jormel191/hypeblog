@@ -4,6 +4,8 @@ Hola soy unapersonanueva que esta haciendo pruebas
 
 tengo 29 años de edad
 
+master 1
+
 y hoy estoy estudiando git
 
 Mañana meenfocaré en la vida laboral
